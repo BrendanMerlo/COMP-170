@@ -18,9 +18,9 @@
  */
 public class A01 {
     public static void main(String[] args) {
-        // first_name = "Brendan"
-            favorite_movie = "Moneyball"
-            hometown = Montgomery
-              System.out.println("Hello, my first name is " + first_name + ", I am from " + hometown + ", and my favorite movie is " + favorite_movie + ".");
+        // firstName = "Brendan";
+            favoriteMovie = "Moneyball";
+            hometown = "Montgomery";
+              System.out.println("Hello, my first name is " + firstName + ", I am from " + hometown + ", and my favorite movie is " + favoriteMovie);
     } // method main
 } // class A01
